@@ -111,7 +111,29 @@
 
     - Check to make sure that each **Cat**'s `color` field is already uppercase
     - If the `color` field is not already uppercase, **_USE THE SETTER_** to change the `color` field to uppercase.
-    
+
+8. In your **Cat** class create a method named `getVowelCountInColor`.
+
+   This method should:
+
+   - Have no parameters.
+   - The method returns an `int` that is the number of vowels in the cat's color. Valid vowels are a, e, i, o, and u.
+
+   Sample Input
+
+     ```
+     System.out.println(cat1.getVowelCountInColor()); // cat1's color is black
+     System.out.println(cat1.getVowelCountInColor()); // cat2's color is ORaNGE
+     System.out.println(cat1.getVowelCountInColor()); // cat3's color is whIte
+     ```
+   Sample Output
+
+    ```
+    1
+    3
+    2  
+    ```
+
 
 ## Testing your Code
 
