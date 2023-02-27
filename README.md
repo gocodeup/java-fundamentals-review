@@ -123,8 +123,8 @@
 
      ```
      System.out.println(cat1.getVowelCountInColor()); // cat1's color is black
-     System.out.println(cat1.getVowelCountInColor()); // cat2's color is ORaNGE
-     System.out.println(cat1.getVowelCountInColor()); // cat3's color is whIte
+     System.out.println(cat2.getVowelCountInColor()); // cat2's color is ORaNGE
+     System.out.println(cat3.getVowelCountInColor()); // cat3's color is whIte
      ```
    Sample Output
 
