@@ -9,8 +9,8 @@ public class TestUpperCaseCatColorMethod {
         Cat whiteCat = new Cat(10, false, "Snowball", "whIte");
 
         System.out.println(blackCat.getVowelCountInColor()); // blackCat's color is black
-        System.out.println(whiteCat.getVowelCountInColor()); // whiteCat's color is ORaNGE
-        System.out.println(orangeCat.getVowelCountInColor()); // orangeCat's color is whIte
+        System.out.println(orangeCat.getVowelCountInColor()); // orangeCat's color is ORaNGE
+        System.out.println(whiteCat.getVowelCountInColor()); // whiteCat's color is whIte
 
         // DONT UNCOMMENT THIS
         // OUTPUT:
